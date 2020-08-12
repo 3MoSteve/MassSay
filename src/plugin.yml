@@ -1,0 +1,7 @@
+name: MassSay
+author: Steve
+main: com.steve.masssay.Main
+version: 1.0.0
+commands:
+  masssay:
+    description: main command
